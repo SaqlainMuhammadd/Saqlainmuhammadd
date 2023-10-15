@@ -1,8 +1,7 @@
 
-![MasterHead](https://static.vecteezy.com/system/resources/previews/004/113/688/original/programmer-concept-for-web-banner-developer-works-at-laptop-writes-code-on-computer-man-creates-programs-modern-people-scene-illustration-in-flat-cartoon-design-with-person-characters-vector.jpg)
 
 <h1 align="center">Hi 👋, I'm Muhammad Saqlain!</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate developer from Pakistan</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saqlainqureshi11&label=Profile%20views&color=0e75b6&style=flat" alt="saqlainqureshi11" /> </p>
