@@ -36,11 +36,16 @@ src="https://img.shields.io/twitter/follow/MuhammadSaqlain143?logo=twitter&style
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/MuhammadSaqlain143"><img src="https://github-readme-stats.vercel.app/api?username=MuhammadSaqlain143&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&show_icons=true" alt="MuhammadSaqlain143's GitHub stats" /></a>
+<div><div/>
+<!--- adding 3D earth icon to show some love for the environment 🌏 --->
+<img height="40" src="https://user-images.githubusercontent.com/60597290/152370900-69dce999-2e00-4227-9547-917fa1a4b06e.png" />
 
-<a href="http://www.github.com/MuhammadSaqlain143"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadSaqlain143&stroke=ffffff&background=1c1917&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/MuhammadSaqlain143" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadSaqlain143&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<hr>
+<p align="center">
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=rashidwassan&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
+  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=rashidwassan&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
+</p>
+<!--- <div align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div> --->
 
 ### Support Me
 
