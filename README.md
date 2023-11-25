@@ -6,7 +6,7 @@ Hi 👋 My name is Saqlain
 A passionate App and Web developer from Pakistan
 ------------------------------------------------
 
-💻‍ I'm a Information Technology Student 👨‍💻 Currently working with Flutter tech for App development 🎇 Learning: Machine Learning, MERN Stack technologies & Data Science 🎨 Hobbies: Graphic Design and Video Editing
+💻‍ I'm an Information Technology Student 👨‍💻 Currently working with Flutter tech for App development 🎇 Learning: Machine Learning, MERN Stack technologies & Data Science 🎨 Hobbies: Graphic Design and Video Editing
 
 * 🌍  I'm based in Pakistan
 * ✉️  You can contact me at [makdoomsaqlainqureshi@gmail.com](mailto:makdoomsaqlainqureshi@gmail.com)
