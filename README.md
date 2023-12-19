@@ -14,9 +14,7 @@ A passionate App and Web developer from Pakistan
 * ⚡  Believe in the transformative power of technology
 
 <a href="https://www.github.com/MuhammadSaqlain143" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/MuhammadSaqlain143?logo=github&style=for-the-badge&color=ec4899&labelColor=171717" /></a><a href="https://www.x.com/muhammadsaqlain143" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/itssaqlain143?logo=twitter&style=for-the-badge&color=ec4899&labelColor=171717"
-/></a>
+src="https://img.shields.io/github/followers/MuhammadSaqlain143?logo=github&style=for-the-badge&color=ec4899&labelColor=171717" /></a>
 
 ### Skills
 
