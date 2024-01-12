@@ -45,4 +45,3 @@ src="https://img.shields.io/github/followers/MuhammadSaqlain143?logo=github&styl
 
 </ul>
 
-[![An image of @muhammadsaqlain143's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/muhammadsaqlain143)](https://holopin.io/@muhammadsaqlain143)
