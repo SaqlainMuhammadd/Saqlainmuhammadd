@@ -30,7 +30,6 @@ src="https://img.shields.io/github/followers/MuhammadSaqlain143?logo=github&styl
 
 <h2><i>⚙️ GitHub Analytics</i></h2>
 
-# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=muhammadsaqlain143&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=muhammadsaqlain143&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsaqlain143&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
