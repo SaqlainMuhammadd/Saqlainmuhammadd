@@ -44,7 +44,7 @@
 
 <h3 align="left">Stars</h3>
 
-<p> &nbsp &nbsp &nbsp &nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=saqlainmuhammadd&show_icons=true&locale=en&theme=dark" alt="saqlainmuhammadd" /> &nbsp
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=saqlainmuhammadd&show_icons=true&locale=en&theme=dark" alt="saqlainmuhammadd" /> &nbsp
 <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=saqlainmuhammadd&theme=dark" alt="saqlainmuhammadd" />
 </p>
 
