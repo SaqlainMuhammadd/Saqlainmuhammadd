@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AI & ML**
 
-- 📫 How to reach me **saqlainmuhammadd@ghmail.com**
+- 📫 How to reach me **saqlainmuhammadd@gmail.com**
 - 👨‍💻 All of my projects are available at **https://github.com/SaqlainMuhammadd**
 - 📝 I regularly write articles on **fushiaglam.com**
 - 📄 Know about my experiences **https://shorturl.at/iBES9**
