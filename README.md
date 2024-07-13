@@ -1,7 +1,7 @@
 ![saqlain](https://github.com/SaqlainMuhammadd/Saqlainmuhammadd/assets/129774784/23b06a8b-8691-45ad-9250-cd44f21a4366)
 
 <h1 align="center">Hi 👋, I'm Muhammad Saqlain</h1>
-<h3 align="center">A passionate Flutter App developer from Pakistan</h3>
+<h3 align="center">A passionate Software Engineer from Pakistan</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saqlainmuhammadd&label=Profile%20views&color=0e75b6&style=flat" alt="saqlainmuhammadd" /> </p>
 <p> 💻‍ I'm an Information Technology Student 👨‍💻 Currently working with Flutter tech for App development 🎇 Learning: Machine Learning, MERN Stack technologies & Data Science 🎨 Hobbies: Graphic Design and Video Editing </p>
 
@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **saqlainmuhammadd@gmail.com**
 - 👨‍💻 All of my projects are available at **https://github.com/SaqlainMuhammadd**
-- 📝 I regularly write articles on **fushiaglam.com**
 - 📄 Know about my experiences **https://shorturl.at/iBES9**
 
 <div> 
