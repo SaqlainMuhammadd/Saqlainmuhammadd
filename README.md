@@ -3,7 +3,10 @@
 <h1 align="center">Hi 👋, I'm Muhammad Saqlain</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saqlainmuhammadd&label=Profile%20views&color=0e75b6&style=flat" alt="saqlainmuhammadd" /> </p>
-<p> 💻‍ I'm an Information Technology Student 👨‍💻 Currently working with Flutter tech for App development 🎇 Learning: Machine Learning, MERN Stack technologies & Data Science 🎨 Hobbies: Graphic Design and Video Editing </p>
+<p> 💻 Passionate about Flutter App Development 🚀
+📚 Currently exploring Machine Learning, MERN Stack Technologies, and Data Science 🌐
+🎨 Hobbies include Graphic Design and Video Editing 🎥
+📈 Always eager to learn and innovate in the tech world! 💡 </p>
 
 - 🌱 I’m currently learning **AI & ML**
 
